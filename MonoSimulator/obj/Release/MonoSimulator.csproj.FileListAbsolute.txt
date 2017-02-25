@@ -1,0 +1,5 @@
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Release\MonoSimulator.exe.config
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Release\MonoSimulator.exe
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Release\MonoSimulator.pdb
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Release\MonoSimulator.exe
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Release\MonoSimulator.pdb

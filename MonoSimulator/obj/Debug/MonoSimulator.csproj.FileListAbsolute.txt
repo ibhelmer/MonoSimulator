@@ -1,0 +1,12 @@
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.exe.config
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.csprojResolveAssemblyReference.cache
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.exe
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.pdb
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.exe
+C:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.pdb
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.exe.config
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.exe
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.pdb
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.exe
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\bin\Debug\MonoSimulator.pdb
+D:\Dropbox\Code\css\MonoSimulator\MonoSimulator\obj\Debug\MonoSimulator.csprojResolveAssemblyReference.cache
